@@ -1,0 +1,3 @@
+- name: Lint with Flake8
+  run: flake8 . --count --show-source --statistics
+  
